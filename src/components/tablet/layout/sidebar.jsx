@@ -1,4 +1,4 @@
-import { BriefcaseIcon, UserIcon, EnvelopeIcon, Cog6ToothIcon  } from '@heroicons/react/24/outline';
+import {BriefcaseIcon,UserIcon,EnvelopeIcon,Cog6ToothIcon} from '@heroicons/react/24/outline';
 import { Link,useLocation  } from "react-router-dom";
 
 const Sidebar = ({ActiveChat,ImgNaranja}) =>{
