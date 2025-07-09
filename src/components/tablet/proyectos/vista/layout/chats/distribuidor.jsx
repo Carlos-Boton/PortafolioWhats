@@ -27,9 +27,9 @@ const Distribuidor = ({CheckIcon,ArrojarImg,toggleModalImg}) => {
         distribuidor-2brsu6956-carlos-daniel-francisco-boton-projects.vercel.app
         https://distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app/login
         distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app`},
-    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `El correo es:
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `El correo del sistema es:
             sistemaprueba@gmail.com`},
-    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `La contraseña es:
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `y te paso la contraseña es:
             sistemaprueba1234&`},
     ];
 
