@@ -21,11 +21,16 @@ const Distribuidor = ({CheckIcon,ArrojarImg,toggleModalImg}) => {
         -Firebase
         -Autenticathor Firebase`    
     },
-    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: "Aqui te paso el link para que lo pruebes"},
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: "Aqui te paso el link"},
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: "El sistema es de prueba, asi que no afecta al sistema que ya esta en funcionamiento"},
     { tipo: "env", hora:"12:37 p.m." , tipoContenido : "link" , contenido: "https://sistema-prueba-venta.vercel.app/login", informacion:`
         distribuidor-2brsu6956-carlos-daniel-francisco-boton-projects.vercel.app
         https://distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app/login
         distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app`},
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `El correo es:
+            sistemaprueba@gmail.com`},
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: `La contraseña es:
+            sistemaprueba1234&`},
     ];
 
     return(
