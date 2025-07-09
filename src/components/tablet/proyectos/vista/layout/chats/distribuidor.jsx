@@ -22,7 +22,7 @@ const Distribuidor = ({CheckIcon,ArrojarImg,toggleModalImg}) => {
         -Autenticathor Firebase`    
     },
     { tipo: "env", hora:"12:37 p.m." , tipoContenido : "tex" , contenido: "Aqui te paso el link para que lo pruebes"},
-    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "link" , contenido: "https://distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app/login", informacion:`
+    { tipo: "env", hora:"12:37 p.m." , tipoContenido : "link" , contenido: "https://sistema-prueba-venta.vercel.app/login", informacion:`
         distribuidor-2brsu6956-carlos-daniel-francisco-boton-projects.vercel.app
         https://distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app/login
         distribuidor-2brsu6956-carlos-daniel-francisco-botons-projects.vercel.app`},
